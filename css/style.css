@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 550px;
+    height: min-content;
+    padding: 60px 0px 60px 0px;
+    background-color:#f5f5dd;
+
+}
+
+.div {
+    width: 10em;
+    height: 10em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#square-1 {
+    background-color: rgba(0, 0, 0, 1);
+
+}
+
+#square-2 {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#square-3 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+#square-4 {
+    background-color: rgba(0, 0, 0, 0.1);
+}
